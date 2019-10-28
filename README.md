@@ -3,7 +3,7 @@ A group project to make a membership management app for a fitness club. Actors: 
 ### Made in Java.
 
 ## How to Run?
-Run the .jar file in the folder. 
+Run the App.jar file in the folder. 
 
 ## User Login Credentials (used for testing)
 
@@ -19,7 +19,7 @@ Zebra Anderson                        member                    Member
 ### Additional Files :
 ```
 Readme : General Information about the project
-Test_Report : Acceptance Tests
+Test_Report : Acceptance Tests and their result
 ```
 
 ## Credits : github.com/
